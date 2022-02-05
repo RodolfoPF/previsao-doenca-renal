@@ -27,5 +27,4 @@
 
 Para rodar o sistema, basta digitar o comando abaixo no terminal do VSCode 
 
-```  python app.py (tecle enter)
-```
+python app.py (tecle enter)
